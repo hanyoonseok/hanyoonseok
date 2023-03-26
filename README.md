@@ -12,6 +12,8 @@ KWU Computer Software|2016.03.01 ~ 2022.02.24
 Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.31
 Samsung Software Academy For Youth 8기 실습코치|2022.12.27 ~
 
+![snake gif](https://github.com/hanyoonseok/hanyoonseok/blob/output/github-contribution-grid-snake.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyoonseok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hys6078)](https://solved.ac/hys6078)
