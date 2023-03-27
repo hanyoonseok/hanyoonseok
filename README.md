@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=007ACC&text=Hi,&nbsp;There!&nbsp;🖐️&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=007ACC&text=Hi,&nbsp;There!&nbsp;🖐️&fontSize=50&fontColor=FFFFFF&width=100)
 
 ### 💬 I am ...
 ```yaml
@@ -46,7 +46,5 @@ hobbies: ["Movies", "Running", "Polaroid", "Travel", ...]
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hys6078@naver.com)](mailto:hys6078@naver.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanyoonseok&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
-카드 추가하려면 아래에서 색 코드와 이름 찾기
-https://simpleicons.org/
--->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer)
