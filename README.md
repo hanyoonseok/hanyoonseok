@@ -37,11 +37,11 @@ hobbies: ["Movies", "Running", "Polaroid", "Travel", ...]
 
   
 <a href="https://github.com/hanyoonseok"> 
-<img align="center" width="40%" height="240px" src="https://github-readme-stats.vercel.app/api?username=hanyoonseok&show_icons=true&theme=radical" alt="hanyoonseok's github stats"/>
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hanyoonseok&show_icons=true&theme=radical" alt="hanyoonseok's github stats"/>
 </a>
 
 <a href="https://solved.ac/hys6078">
-<img width="40%" height="200px" align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hys6078" alt="hanyoonseok's solved.ac stats"/>
+<img width="48%"  align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hys6078" alt="hanyoonseok's solved.ac stats"/>
 </a>
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hys6078@naver.com)](mailto:hys6078@naver.com)
