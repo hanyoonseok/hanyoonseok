@@ -7,8 +7,9 @@ live: Goyang City (Korea)
 education: [@KwangWoon University:
                 "Bachelor of Computer Software"]
                 
-ongoing: ["SSAFY_Samsung Software Academy For Youth 8기 대전 실습코치"]
-activity: ["SSAFY_Samsung Software Academy For Youth 7기 수료"]
+ongoing: ["Hyundai-Autoever Developer"]
+activity: ["SSAFY_Samsung Software Academy For Youth 7기 수료",
+          "SSAFY_Samsung Software Academy For Youth 8기 대전 실습코치"]
 awards: ["SSAFY 1학기 관통 프로젝트 수상 (1위): 벌집", 
          "SSAFY 2학기 공통 프로젝트 수상 (2위): 방과워",
          "SSAFY 2학기 특화 프로젝트 수상 (1위): NEWSTUDY",
@@ -16,7 +17,7 @@ awards: ["SSAFY 1학기 관통 프로젝트 수상 (1위): 벌집",
          "SSAFY 2학기 결선 발표회 수상 (2위): MYINI"]
 
 languages: ["Korean", "English"]
-hobbies: ["Movies", "Running", "Polaroid", "Travel", ...]
+hobbies: ["Movies", "Running", "Climbing", "Travel", ...]
 ```
 
 
