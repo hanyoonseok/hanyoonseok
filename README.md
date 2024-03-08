@@ -7,7 +7,7 @@ live: Goyang City (Korea)
 education: [@KwangWoon University:
                 "Bachelor of Computer Software"]
                 
-ongoing: ["Hyundai-Autoever Developer"]
+ongoing: ["Hyundai-Autoever Hyundai/Kia/Genesis Digital key2 developer & operator"]
 activity: ["SSAFY_Samsung Software Academy For Youth 7기 수료",
           "SSAFY_Samsung Software Academy For Youth 8기 대전 실습코치"]
 awards: ["SSAFY 1학기 관통 프로젝트 수상 (1위): 벌집", 
